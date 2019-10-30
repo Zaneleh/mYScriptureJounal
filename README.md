@@ -1,1 +1,3 @@
-# mYScriptureJounal
+# MyScriptureJounal
+
+## In this programming assignment, you will use the previous ASP.NET Web Pages tutorial, My Movies, as your template to build a application called My Scripture Journal. This application allows the user to save their favorite scriptures along with notes of impression or study. You will be required to demonstrate design principles by creating a custom look and feel throughout the application, starting from the base template but changing everything on the presentation layer to customize the application. The business logic is basically the same and, of course, your database entity model will need to accommodate the application requirements.
